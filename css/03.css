@@ -1,0 +1,44 @@
+.event{
+	margin: 9px 20px;
+	}
+.event img{
+	height: 27px;
+	width: 27px;
+}
+
+body{
+	background-color: #68cdd5;
+}
+.img{
+	margin: 100px auto;
+	text-align: center;
+	
+}
+.img img{
+	height: 36px;
+	width: 92px;
+}
+.text{
+	color: white;
+	padding: 0 18% 18%;
+}
+.leftm{
+	float: left;
+	margin-left: 15%;
+	color: white;
+}
+.leftm img{
+	height: 42px;
+	width: 42px;
+	margin-left: 25%;
+}
+.rightm{
+	float: right;
+	margin-right: 10%;
+	color: white;
+}
+.rightm img{
+	height: 42px;
+	width: 42px;
+	margin-left: 25%;
+}
